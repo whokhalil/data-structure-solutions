@@ -1,1 +1,1 @@
-# geeksforgeek-solutions
+# Database related-solutions
